@@ -1,0 +1,8 @@
+node_modules
+*.swp
+*.swo
+*.sw*
+settings.py
+docker-compose.yml
+Dockerfile
+note.js
